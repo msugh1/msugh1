@@ -1,6 +1,5 @@
-<div align="center">
-  <kbd><b><font size="6" color="#007acc">DEVELOPER | MSUGH DEMKIIR</font></b></kbd>
-</div>
+<img width="1239" height="281" alt="image" src="https://github.com/user-attachments/assets/a902f596-cfd2-496c-8658-daea1bc74a4c" />
+
 # Hi there, I'm **Felix** 👋
 
 🔐 **Cybersecurity Student** passionate about **Cloud Security**, **AI**, and building **secure, impactful solutions**.
