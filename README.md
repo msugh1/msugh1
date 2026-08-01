@@ -1,4 +1,5 @@
-<img width="693" height="194" alt="image" src="https://github.com/user-attachments/assets/9717e350-bdaa-4354-a213-2f1af2543330" /
+<img width="691" height="208" alt="image" src="https://github.com/user-attachments/assets/6eb070d0-d733-4fe6-b74b-88c5a0996a0f" />
+
 
 ## Hi there, I'm Msugh  👋
 
