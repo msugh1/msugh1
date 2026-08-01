@@ -1,16 +1,22 @@
-## Hi there 👋
+$$\      $$\                               $$\             $$$$$$$$\        $$\ $$\           
+$$$\    $$$ |                              $$ |            $$  _____|       $$ |\__|          
+$$$$\  $$$$ | $$$$$$$\ $$\   $$\  $$$$$$\  $$$$$$$\        $$ |    $$$$$$\  $$ |$$\ $$\   $$\ 
+$$\$$\$$ $$ |$$  _____|$$ |  $$ |$$  __$$\ $$  __$$\       $$$$$\ $$  __$$\ $$ |$$ |\$$\ $$  |
+$$ \$$$  $$ |\$$$$$$\  $$ |  $$ |$$ /  $$ |$$ |  $$ |      $$  __|$$$$$$$$ |$$ |$$ | \$$$$  / 
+$$ |\$  /$$ | \____$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |      $$ |   $$   ____|$$ |$$ | $$  $$<  
+$$ | \_/ $$ |$$$$$$$  |\$$$$$$  |\$$$$$$$ |$$ |  $$ |      $$ |   \$$$$$$$\ $$ |$$ |$$  /\$$\ 
+\__|     \__|\_______/  \______/  \____$$ |\__|  \__|      \__|    \_______|\__|\__|\__/  \__|
+                                 $$\   $$ |                                                   
+                                 \$$$$$$  |                                                   
+                                  \______/                                                    
 
-<!--
-**msugh1/msugh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **Felix** 👋
 
-Here are some ideas to get you started:
+🔐 **Cybersecurity Student** passionate about **Cloud Security**, **AI**, and building **secure, impactful solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently learning:** Cloud Security, DevSecOps, and Threat Detection
+- 💻 **Building projects in:** Cybersecurity, AI, and Software Development
+- 🤝 **Open to collaborating on:** Open Source and security-focused projects
+- 📫 **Reach me:** your-email@example.com
+
+> *"Learn relentlessly. Build responsibly"*
