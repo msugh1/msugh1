@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Msugh  👋
 
-🔐 **Cybersecurity Student** passionate about **Cloud Security**, **AI**, and building **secure, impactful solutions**.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&width=500&lines=Cybersecurity+Student;Future+Cloud+Security+Architect;Passionate+about+Cloud+Security+and+AI;Building+secure+and+impactful+solutions" alt="Typing SVG" /></a>
 
 - 🌱 **Currently learning:** Cloud Security, DevSecOps, and Threat Detection
 - 💻 **Building projects in:** Cybersecurity, AI, and Software Development
